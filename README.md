@@ -1,4 +1,4 @@
-# Enhancing Hotel Revenue and Booking Strategies
+# Optimizing Hotel Revenue and Booking Strategies
 
 This repository contains the project aimed at analyzing hotel revenue and booking patterns using Power BI. The analysis provides insights into the performance of the hotel industry, identifying trends and patterns to help stakeholders make data-driven decisions.
 
